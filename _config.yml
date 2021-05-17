@@ -56,10 +56,10 @@ title: "Introduction to R"
  pilot_lesson_site: "https://datacarpentry.org/genomics-r-intro/"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your pre-workshop survey
-# pilot_pre_survey: "put the URL of your pre-workshop survey here"
+ pilot_pre_survey: "https://datacarpentry.org/genomics-r-intro/"
 #
 # For a lesson pilot, uncomment the line below and add the URL of your post-workshop survey
-# pilot_post_survey: "put the URL of your post-workshop survey here"
+ pilot_post_survey: "https://datacarpentry.org/genomics-r-intro/"
 #
 #------------------------------------------------------------
 
